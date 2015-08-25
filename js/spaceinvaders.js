@@ -1,11 +1,4 @@
 /*
-  spaceinvaders.js
-
-  the core logic for the space invaders game.
-
-*/
-
-/*  
     Game Class
 
     The Game class represents a Space Invaders game.

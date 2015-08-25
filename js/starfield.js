@@ -1,8 +1,3 @@
-/*
-	Starfield lets you take a div and turn it into a starfield.
-
-*/
-
 //	Define the starfield class.
 function Starfield() {
 	this.fps = 30;
